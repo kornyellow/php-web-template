@@ -1,0 +1,20 @@
+{
+  "name": "korn/kornyellow",
+  "description": "",
+  "type": "project",
+  "license": "proprietary",
+  "autoload": {
+    "psr-4": {
+      "libraries\\": "libraries"
+    }
+  },
+  "authors": [
+    {
+      "name": "kornyellow",
+      "email": "kornkubzaza@gmail.com"
+    }
+  ],
+  "require": {
+    "ext-mysqli": "*"
+  }
+}

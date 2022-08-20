@@ -1,0 +1,6 @@
+[submodule "korn-php-lib"]
+	path = korn-php-lib
+	url = https://github.com/kornyellow/korn-php-lib.git
+[submodule "libraries/korn"]
+	path = libraries/korn
+	url = git@github.com:kornyellow/korn-php-lib.git
