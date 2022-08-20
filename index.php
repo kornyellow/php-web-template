@@ -13,6 +13,12 @@ date_default_timezone_set('Asia/Bangkok');
 // Libraries for autoload classes
 include('vendor/autoload.php');
 
+// Config header
+KornConfig::$websiteName = 'เว็บไซต์เทมเพลท';
+KornConfig::$defaultDescription = '';
+KornConfig::$defaultAbstract = '';
+KornConfig::$defaultKeywords = '';
+
 // Start Sessions
 session_start();
 
